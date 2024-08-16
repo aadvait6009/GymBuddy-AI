@@ -17,8 +17,8 @@ First things first, you need to download the project. If you know how to use Git
 
 bash
 Copy code
-git clone https://github.com/aadvait6009/bicep-curl-counter.git
-cd bicep-curl-counter
+git clone https://github.com/aadvait6009/GymBuddy-AI.git
+cd GymBuddy-AI
 Set Up a Virtual Environment (Optional but Handy):
 This step isn’t required, but it’s a good idea if you want to keep things tidy, especially if you have other Python projects. Here’s how:
 
